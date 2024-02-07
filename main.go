@@ -8,7 +8,8 @@ import (
 
 )
 var a = "Hello, World!"
-func main() {
+func main() 
+{
 	fmt.Printf("sdgvs",a)
 	func 
 }

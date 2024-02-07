@@ -10,4 +10,5 @@ import (
 var a = "Hello, World!"
 func main() {
 	fmt.Printf("sdgvs",a)
-	func }
+	func 
+}

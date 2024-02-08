@@ -5,10 +5,11 @@ import (
 )
 
 var a = "Hello, World!"
+var q int = 43
+var d = 1
 
 func main() {
-	var q int = 43
-	var d = 1
+
 	fmt.Println("Hello, World!")
 	fmt.Println(a)
 	fmt.Println(q)

@@ -5,8 +5,11 @@ import (
 )
 
 var a = "Hello, World!"
+var b = int8(42)
+var c = int8(23)
+var d = int8(b)
 
 func main() {
-	var a string = "Hello, World!"
-	fmt.Printf("sdgvs", a)
+	fmt.Printf(a)
+	fmt.Printf("d == b+c", d, b, c)
 }
